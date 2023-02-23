@@ -98,4 +98,22 @@ body {
         bottom: 0;
     }
 
-    
+    /* 5 */
+    #reality {
+        position: absolute;
+        right: 0;
+        bottom: 150px;
+    }
+
+    /* 6 */
+    #mind {
+        position: fixed;
+        right: 0;
+    }
+
+    /* 7 */
+    #time {
+        position: fixed;
+        top: 0;
+        right: 0;
+    }
