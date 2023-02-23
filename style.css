@@ -129,3 +129,22 @@ body {
     #power, #space {
         z-index: 1;
     }
+
+    /* Bonus */
+
+    #reality {
+        z-index: 30;
+    }
+
+    #time {
+        z-index: 25;
+    }
+
+    #soul {
+        z-index: 20;
+    }
+
+    h2 {
+        position: sticky;
+        top: 65px;
+    }
